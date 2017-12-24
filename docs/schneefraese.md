@@ -3,11 +3,11 @@
 
 ![](https://www.schallberger.ch/fileadmin/img/vocom/40db3d2828dc9681fe4cf7ec189869bf.JPG)
 
-Typ: Aebi SF 1
+**Typ**: Aebi SF 1
 
-Öl: ???
+**Öl**: ???
 
-Reifendruck: ???
+**Reifendruck**: ???
 
 ## Vorbereitung
 
